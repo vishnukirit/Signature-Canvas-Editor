@@ -1,7 +1,7 @@
 # Signature-Canvas-Editor
 This project allows users to draw signatures on a canvas element using various customization options.
 
-(file:///C:/Users/91837/Pictures/Screenshots/Signature-App.png)
+![Signature-App](https://github.com/vishnukirit/Signature-Canvas-Editor/assets/107033473/fc9f54da-1cf0-4239-bf0f-e5edf5313469)
 
 Features:
 - Color Picker: Choose the color of the drawing line.
