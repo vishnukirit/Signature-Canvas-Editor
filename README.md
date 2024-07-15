@@ -7,7 +7,6 @@ Features:
 - Color Picker: Choose the color of the drawing line.
 - Background Color Picker: Select the background color of the canvas.
 - Line Thickness Slider: Adjust the thickness of the drawing line.
-- Font Size Selector: Change the font size for text input (not implemented yet).
 - Clear Canvas: Clear the canvas to start fresh.
 - Save & Download: Save the drawn signature as an image and download it.
 - Retrieve Saved Signature: Retrieve a previously saved signature.
